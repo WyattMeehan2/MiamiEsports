@@ -1,0 +1,41 @@
+.team {
+  color: #C3142D;
+  padding-top: 20px;
+  text-align: center;
+  font-style: normal;
+  font-family: Open Sans;
+  font-size: 45px;
+}
+
+.teampics {
+  position: relative;
+  padding-left: 100px;
+}
+
+.picHolder {
+
+  position:relative;
+  width: 300px;
+  height: 300px;
+  display: inline;
+}
+
+.picHolder .caption {
+  position: absolute;
+     width: 300px;
+     height: 30px;
+     bottom: -100px;
+     left: 0px;
+     color: #000000;
+     background: white;
+     text-align:center;
+     font-weight:bold;
+     opacity:0.7;
+}
+
+.tpic {
+
+  width: auto;
+  height: 300px;
+  padding: 20px;
+}

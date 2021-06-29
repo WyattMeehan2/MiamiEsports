@@ -1,0 +1,54 @@
+
+  /* The navigation menu links */
+  .sidenav a {
+
+    font-style: normal;
+    font-family: Open Sans;
+    padding: 20px 18px 6px 16px;
+    text-decoration: none;
+    font-size: 25px;
+    color: #020202;
+   /* display: block;*/
+  }
+.sidenav {
+    list-style-type: square;
+  list-style-position: outside;
+  margin: auto;
+  text-align: center;
+}
+  /* When you mouse over the navigation links, change their color */
+  .sidenav a:hover {
+    color:  #C3142D;
+  }
+  /* Style page content */
+
+  .meet {
+    color: #C3142D;
+    padding-top: 20px;
+    text-align: center;
+    font-style: normal;
+    font-family: Open Sans;
+    font-size: 45px;
+  }
+
+
+ .pictures1 {
+      text-align: center;
+    margin-right: auto;
+
+ }
+
+  .fpic1 {
+   
+    height: 300px;
+    padding: 20px;
+  }
+ 
+ .Abouttitle{
+  color: #C3142D;
+    padding-top: 20px;
+    text-align: center;
+    font-style: normal;
+    font-family: Open Sans;
+    font-size: 45px;
+ }
