@@ -1,0 +1,74 @@
+.menuBar {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #C3142D;
+  position: relative;
+}
+
+.teamMenuItem{
+  font-style: normal;
+  font-family: Open Sans;
+  float: left;
+}
+
+.menuItem {
+  font-style: normal;
+  font-family: Open Sans;
+  float: left;
+}
+
+.logo {
+  width: 42px;
+  height: 46px;
+}
+
+.logoItem {
+  width: 42px;
+  height: 52px;
+  float: left;
+  padding-left: 2px;
+  padding-right: 46px;
+  background-color: #FFFFFF;
+}
+
+.logoItem a {
+  display: block;
+  color: white;
+  text-decoration: none;
+}
+
+.teamMenuItem a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+.teamMenuItem:hover .dropdown-content {
+  display: block;
+}
+
+.menuItem a {
+
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+.teamMenuItem a:hover {
+    background-color: #111;
+
+}
+
+.logoItem a:hover{
+  background-color: #111;
+}
+
+.menuItem a:hover {
+  background-color: #111;
+}

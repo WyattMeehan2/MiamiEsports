@@ -1,0 +1,5 @@
+
+{"fullName":"Wyatt Meehan","email":"meehanwj@miamioh.edu","person":"Miami Student","info":"Hello"}
+{"fullName":"Wyatt Meehan","email":"meehanwj@miamioh.edu","person":"Other College Student","intent":"Joining a Team as a Player","info":"Testing "}
+{"fullName":"Wyatt Meehan","email":"meehanwj@miamioh.edu","person":"Miami Student","intent":"Joining a Team as a Player","info":"Testing"}
+{"fullName":"Wyatt Meehan","email":"meehanwj@miamioh.edu","person":"Other College Student","intent":"Other","info":"Hello I would like to test this!"}
